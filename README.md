@@ -31,9 +31,7 @@ pip install torch torchvision transformers
 
 Run basic pipeline (default model):
 
-```bash
-cd Q1_QA_Transformers
-```
+
 
 1. **Basic Pipeline (Default Model)**
 
@@ -61,7 +59,6 @@ Run the following script to train the Conditional GAN and generate images:
 
 
 ```bash
-cd ../Q2_Conditional_GAN
 python cgan_mnist.py
 ```
 
