@@ -1,7 +1,7 @@
 
 # Bonus Assignment - CS5720 Neural Networks and Deep Learning
 
-## 👨‍🎓 Student Info
+##  Student Info
 - **Name:** Shreya Surakanti
 - **Course:** CS5720 - Neural Networks and Deep Learning
 
@@ -55,7 +55,7 @@ python my_examples.py
 
 ---
 
-### ✅ Question 2: Conditional GAN for MNIST Digit Generation
+###  Question 2: Conditional GAN for MNIST Digit Generation
 
 Run the following script to train the Conditional GAN and generate images:
 
@@ -70,7 +70,7 @@ python cgan_mnist.py
 
 ---
 
-## 📘 Explanation of Work
+##  Explanation of Work
 
 ### Question 1: Transformers-Based Question Answering
 
@@ -88,11 +88,11 @@ python cgan_mnist.py
 
 ---
 
-## 🧠 Short Answer Section
+##  Short Answer Section
 
 **1. How does a Conditional GAN differ from a vanilla GAN?**
 Conditional GANs are guided by labels (like digits or categories) to control output, while vanilla GANs generate random outputs without context.
-📌 *Example:* Generating images of a particular digit, class, or facial expression.
+ *Example:* Generating images of a particular digit, class, or facial expression.
 
 **2. What does the discriminator learn in an image-to-image GAN? Why is pairing important?**
 The discriminator learns the mapping relationship between input and output images (not just image realism).
